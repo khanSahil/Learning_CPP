@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PointersAndReferences.cpp">
+    <ClCompile Include="Person.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Person.cpp">
+    <ClCompile Include="Const.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

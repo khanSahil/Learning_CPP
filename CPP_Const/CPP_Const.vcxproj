@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ce6c7f1b-c023-499c-a1c0-48224262ea13}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <ProjectGuid>{0121a33d-375d-4390-852f-4d57b2c90d82}</ProjectGuid>
+    <RootNamespace>CPPConst</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Const.cpp" />
     <ClCompile Include="Person.cpp" />
-    <ClCompile Include="PointersAndReferences.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.h" />
